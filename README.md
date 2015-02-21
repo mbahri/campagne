@@ -1,6 +1,6 @@
-Campgne Ensimag 2014
+Campgne Ensimag 2015
 ====================
 
-Site Web de la campagne Ensimag 2014 pour le futur BDE
+Site Web de la campagne Ensimag 2015 pour le futur BDE
 
 Ce site a pour but de vous permettre de voter pour vos listes préférés
